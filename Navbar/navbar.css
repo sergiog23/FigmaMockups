@@ -1,0 +1,121 @@
+/* NavBar */
+
+
+.nav-bar {
+  width: 1440px;
+  height: 91px;
+  display: inline;
+  color: white;
+}
+
+.nav-bar-items {
+  margin-right: 20px;
+  padding: 0px;
+  background-color:black;
+  text-align:right;
+  left: 17.71%;
+  right: 40.62%;
+  top: 15.38%;
+  bottom: 16.48%;
+  
+}
+
+.nav-bar-items li {
+  display: inline;
+  margin-right: 20px;
+  text-align: center;
+  padding: 10px;
+}
+
+/* NAV TITLE */
+
+#title{
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 42px;
+  display: inline;
+  align-items:center;
+  color: #FFFFFF;
+  margin-right:200px;
+  text-align: center;
+ 
+}
+#titles{
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 42px;
+  display: inline;
+  align-items:center;
+  color: black;
+  margin-right:20px;
+  text-align: center;
+ 
+}
+/* NAV Texts */
+#texts{
+font-family: 'Roboto',sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 23px;
+display: inline;
+align-items: right;
+text-align: right;
+color: #FFFFFF;
+
+
+}
+
+/* NavBar */
+
+
+.bottom-bar {
+  
+  width: 1440px;
+  height: 91px;
+  display: inline;
+  color: black;
+}
+
+.bottom-bar-items {
+  margin-right: 20px;
+  padding: 0px;
+  background-color:black;
+  text-align:right;
+  left: 17.71%;
+  right: 40.62%;
+  top: 15.38%;
+  bottom: 16.48%;
+  
+}
+
+.bottom-bar-items li {
+  display: inline;
+  margin-right: 20px;
+  text-align: center;
+  padding: 10px;
+}
+/* In this GitHub Guide you’ll learn how to: 1. Create and use a repository 2. Start and manage a new branch 3. Make changes to a file and push them to GitHub as commits */
+
+position: absolute;
+width: 508px;
+height: 103px;
+left: 466px;
+top: 570px;
+
+/* Words words words */
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+
+color: #000000;
+
+
+
+

@@ -1,0 +1,118 @@
+/* NavBar */
+
+
+.nav-bar {
+    width: 1440px;
+    height: 91px;
+    display: inline;
+    color: white;
+  }
+  
+  .nav-bar-items {
+    margin-right: 20px;
+    padding: 0px;
+    background-color:black;
+    text-align:right;
+    left: 17.71%;
+    right: 40.62%;
+    top: 15.38%;
+    bottom: 16.48%;
+    
+  }
+  
+  .nav-bar-items li {
+    display: inline;
+    margin-right: 20px;
+    text-align: center;
+    padding: 5px;
+  }
+  
+  /* NAV TITLE */
+  
+  #title{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+    display: inline;
+    align-items:center;
+    color: #FFFFFF;
+    margin-right:290px;
+    text-align: center;
+    
+   
+  }
+  #titles{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+    display: inline;
+    align-items:center;
+    color: black;
+    margin-right:20px;
+    text-align: center;
+   
+  }
+  /* NAV Texts */
+  #texts{
+  font-family: 'Roboto',sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 23px;
+  display: inline;
+  align-items: right;
+  text-align: right;
+  color: #FFFFFF;
+  
+  
+  }
+  #tex{
+    list-style-type: none;
+    font-family: 'Roboto',sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    display:inline;
+    line-height: 21px;
+    align-items: center;
+    text-align: center;
+    color:black;
+    margin-left: 400px;
+    
+    
+    }
+  /* NavBar */
+  
+  
+  .bottom-bar {
+    
+    width: 1440px;
+    height: 91px;
+    display: inline;
+    color: black;
+    margin-top: 100px;
+  }
+  
+  .bottom-bar-items {
+    margin-right: 20px;
+    padding: 0px;
+    background-color:black;
+    text-align:right;
+    left: 17.71%;
+    right: 40.62%;
+    top: 15.38%;
+    bottom: 16.48%;
+    
+  }
+  
+  .bottom-bar-items li {
+    display: inline;
+    margin-right: 20px;
+    text-align: center;
+    padding: 10px;
+  }
+ 
